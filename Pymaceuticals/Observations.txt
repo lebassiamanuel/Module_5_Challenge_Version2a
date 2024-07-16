@@ -1,0 +1,5 @@
+Observations and Insights
+Capomulin and Ramicane are the best in treating tumors.
+The bar graph shows that Capomulin and Ramicane had the most number of mice tested.
+The least effective drug regimens are the bottom two drugs Infubinol and Ceftamin.
+The average tumor volume decreases as the mouse weight decrease.
